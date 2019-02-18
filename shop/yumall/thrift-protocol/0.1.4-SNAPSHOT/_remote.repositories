@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 12 20:46:46 CST 2019
+thrift-protocol-0.1.4-SNAPSHOT.pom>=
+thrift-protocol-0.1.4-SNAPSHOT.jar>=
