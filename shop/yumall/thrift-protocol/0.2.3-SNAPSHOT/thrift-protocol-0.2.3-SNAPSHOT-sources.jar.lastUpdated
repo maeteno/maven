@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 04 09:51:18 CST 2019
+https\://raw.github.com/maeteno/maven/release/.error=
+https\://github.com/benjaliu/loxia2-repo/raw/master/releases/.error=
+http\://search.maven.org/remotecontent?filepath\=/.lastUpdated=1551663574027
+https\://github.com/benjaliu/loxia2-repo/raw/master/releases/.lastUpdated=1551663575466
+https\://raw.github.com/maeteno/maven/release/.lastUpdated=1551664278653
+https\://raw.github.com/maeteno/maven/snapshot/.error=
+http\://search.maven.org/remotecontent?filepath\=/.error=
+https\://raw.github.com/maeteno/maven/snapshot/.lastUpdated=1551664277619
+http\://itcentral.baozun.cn/nexus/content/groups/public/.lastUpdated=1551663574043
+http\://itcentral.baozun.cn/nexus/content/groups/public/.error=
